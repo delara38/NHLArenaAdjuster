@@ -9,7 +9,7 @@ setup(
                 ' League forwards and defensemen based upon all on-ice events"',   # Give a short description about your library
   author = 'Nathan de Lara',                   # Type in your name
   author_email = 'nathandelara1@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
+  url = 'https://github.com/delara38/NHLArenaAdjuster',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['HOCKEY','NHL'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
