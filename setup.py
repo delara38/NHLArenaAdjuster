@@ -10,7 +10,7 @@ setup(
   author = 'Nathan de Lara',                   # Type in your name
   author_email = 'nathandelara1@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/delara38/NHLArenaAdjuster',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/delara38/NHLArenaAdjuster/releases/tag/0.1.2#:~:text=Source%20code,(zip)',    # I explain this later on
   keywords = ['HOCKEY','NHL'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'numpy',
