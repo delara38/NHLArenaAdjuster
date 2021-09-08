@@ -31,7 +31,7 @@ Built in the scikit-learn mould of having fit, transform and fit_transform.
 
 
 >  From NHLArenaAdjuter import CoordinateAdjuster
-  
+>  
 > CoordinateAdjuster()
 
 
