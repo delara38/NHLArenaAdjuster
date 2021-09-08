@@ -30,7 +30,7 @@ The pakcage is centered around the CoordinateAdjuster object.
 Built in the scikit-learn mould of having fit, transform and fit_transform.
 
 
->  From NHLArenaAdjuter import CoordinateAdjuster
+>  From NHLArenaAdjuster import CoordinateAdjuster
 >  
 > CoordinateAdjuster()
 
