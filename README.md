@@ -21,13 +21,7 @@ CoordinateAdjuster
 -------------------
 
 
-The pakcage is centered around the CoordinateAdjuster object.
-  
- _____________________________________________
- CoordinateAdjuster
- -----------------------
-
-Built in the scikit-learn mould of having fit, transform and fit_transform.
+The pakcage is centered around the CoordinateAdjuster object. Which is built in the scikit-learn mould of having fit, transform and fit_transform.
 
 
 >  From NHLArenaAdjuster import CoordinateAdjuster
